@@ -1,0 +1,13 @@
+﻿  Main.cpp
+C:\Users\Nicho\OneDrive\Documents\BYU-Idaho\Spring 2022\CSE 310 - Applied Programming\Projects\RndGraph\RandomizerGraphics\Main.cpp(24,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nicho\OneDrive\Documents\BYU-Idaho\Spring 2022\CSE 310 - Applied Programming\Projects\RndGraph\RandomizerGraphics\Main.cpp(24,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nicho\OneDrive\Documents\BYU-Idaho\Spring 2022\CSE 310 - Applied Programming\Projects\RndGraph\RandomizerGraphics\Main.cpp(113,72): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Nicho\OneDrive\Documents\BYU-Idaho\Spring 2022\CSE 310 - Applied Programming\Projects\RndGraph\RandomizerGraphics\Main.cpp(124,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nicho\OneDrive\Documents\BYU-Idaho\Spring 2022\CSE 310 - Applied Programming\Projects\RndGraph\RandomizerGraphics\Main.cpp(124,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nicho\OneDrive\Documents\BYU-Idaho\Spring 2022\CSE 310 - Applied Programming\Projects\RndGraph\RandomizerGraphics\Main.cpp(129,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nicho\OneDrive\Documents\BYU-Idaho\Spring 2022\CSE 310 - Applied Programming\Projects\RndGraph\RandomizerGraphics\Main.cpp(129,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  RandomizerGraphics.vcxproj -> C:\Users\Nicho\OneDrive\Documents\BYU-Idaho\Spring 2022\CSE 310 - Applied Programming\Projects\RndGraph\RandomizerGraphics\x64\Debug\RandomizerGraphics.exe
